@@ -277,3 +277,15 @@ footer {
         display: none;
     }
 }
+
+@media  screen and (max-width: 950px) {
+    
+    #menu {
+        clear: left;
+        float: left;
+        margin-right: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+   
+}
